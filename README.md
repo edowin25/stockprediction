@@ -80,5 +80,9 @@ AAPL data was first generated from Yahoo! Finance for the required period and th
   <img width="150" height="320" src="https://user-images.githubusercontent.com/50400038/167246803-65bcf069-42f8-4d50-b3b3-f321c8a5a275.png">
 </p>
 
-Next, lag price features were created
+Next, a function was defined to create up to day minus 3 for lag price
+
+<p align="center">
+  <img width="450" height="200" src="https://user-images.githubusercontent.com/50400038/167247156-a13f298f-42d0-4b61-830d-4f118613d4bf.png">
+</p>
 
