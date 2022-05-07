@@ -18,7 +18,10 @@ This project is to use machine learning model to predict stock prices to aid in 
       <ul>
         <li><a href="#feature-engineering">Feature Engineering</a></li>
         <li><a href="#model-selection">Model Selection</a></li>
+        <li><a href="#hyperparameters-tuning">Hyperparameters Tuning</a></li>
+        <li><a href="#forward-testing">Forward Testing</a></li>
       </ul>
+    <li><a href="#takeaways">Takeaways</a></li>
   </ol>
 </details>
 
