@@ -1,5 +1,5 @@
 ## Using Machine Learning to Predict Stock Prices - Evaluating its effectiveness
-![image](https://github.com/edowin25/nba3pt_analysis/blob/edowin25-patch-2/cover.png?raw=true)
+*Cover image to insert for stocks![image](https://github.com/edowin25/)
 
 ### Brief Introduction
 This project is to use machine learning model to predict stock prices to aid in my options trading. Past stock prices as well as values of technical indicators like Bollinger Band width, MACD, RSI and MFI will be engineered from the price data and will be used as features for my prediction.
